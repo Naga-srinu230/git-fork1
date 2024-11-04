@@ -1,2 +1,1 @@
-new feature is added to file
-these are the latest changes
+inserting lines
